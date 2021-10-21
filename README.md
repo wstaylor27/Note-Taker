@@ -1,7 +1,10 @@
 # Note-Taker
 
- ## Link
-  https://drive.google.com/file/d/16_CtZyNFOmBWKSx3CqP27y7og_hWZ7UL/view?usp=sharing
+ ## Link to Video
+ https://drive.google.com/file/d/1NDDl32W8UFzLLVY6fgtFi0NVNekoQNuQ/view?usp=sharing
+ 
+ ## Link to App on Heroku
+  https://agile-escarpment-66180.herokuapp.com/
 
   ## Table of Contents 
   - [Description](#description)
